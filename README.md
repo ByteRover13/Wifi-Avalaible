@@ -5,3 +5,4 @@ Wifi-Avalaible is a Python script that allows us to connect to a WiFi network th
 sudo apt-get install python3-pip
 pip install colorama
 ```
+![images](/01.png)
