@@ -11,5 +11,6 @@ We move the app.py to a path path to call the script with simply the name.
 cd Wifi-Avalaible
 mv app.py /usr/local/bin/
 ```
+
 Now we can call it with the name from any directory.
 ![images](/001.png)
