@@ -11,4 +11,5 @@ We move the app.py to a path path to call the script with simply the name.
 cd Wifi-Avalaible
 mv app.py /usr/local/bin/
 ```
-![images](/01.png)
+# Tool use
+![images](/001.png)
