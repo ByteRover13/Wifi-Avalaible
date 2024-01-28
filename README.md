@@ -13,4 +13,5 @@ mv app.py /usr/local/bin/
 ```
 
 Now we can call it with the name from any directory.
+
 ![images](/001.png)
