@@ -17,7 +17,7 @@ def conectred():
     else:
         print(f"{Fore.RED}Opcion incorrecta, vuelve a intentarlo{Style.RESET_ALL}")
 try:
-    usuario = int(input(f"{Fore.YELLOW}1 -> Redes Disponibles \n2 -> Conectar a una red \n3 -> Mostrar conexion actual{Style.RESET_ALL}\n{Fore.GREEN}Escoja cualquiera de las dos opciones: {Style.RESET_ALL}"))
+    usuario = int(input(f"{Fore.YELLOW}1 -> Redes Disponibles \n2 -> Conectar a una red \n3 -> Mostrar conexion actual{Style.RESET_ALL}\n{Fore.GREEN}Escoja cualquiera de las tres opciones: {Style.RESET_ALL}"))
 
     match usuario:
         case 1:
